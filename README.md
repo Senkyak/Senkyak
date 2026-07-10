@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name] 👋
 
 ### 🚀 Who I Am
-I am a Full-Stack Developer  UI/UX Designer Tech Enthusiast passionate about building clean, efficient, and user-centric digital experiences. 
+I am a CEO of FGDT- Future Global Development Team - community that creates tech and possibilities to be more efficient and make ur work easily. 
 
 ### 🛠️ Tools & Technologies I Use
 * **Design & Prototyping:** Figma, Spline, Meshy
@@ -10,7 +10,7 @@ I am a Full-Stack Developer  UI/UX Designer Tech Enthusiast passionate about bui
 
 ### 🏗️ What I'm Creating
 * **Current Focus:** Integrating AI tools (Claude, Gemini, Cursor) to build smarter, faster workflows.
-* **Projects:** Developing and creating project that would change every day for huge part of the world.
+* **Projects:** Developing and creating project that would change every day life for huge part of the world.
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn:** 
