@@ -1,4 +1,4 @@
-# Hi there, I'm A.Krasiuk 👋
+# Hi there, I'm A.Karasiuk 👋
 
 ### Who I Am
 I am a CEO of FGDT- Future Global Development Team - community that creates tech and possibilities to be more efficient and make ur work easily. 
